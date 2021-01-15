@@ -15,7 +15,7 @@ app.get('/about', (req, res) => {
   })
 
   app.get('/help', (req, res) => {
-    res.send('contact me for any help')
+    res.send('Contact me for any help')
   })
 
 
